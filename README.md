@@ -23,8 +23,8 @@ All the restaurant in the app:
   
 - There is a button to add a new restaurant to the app.
   
-<img height=500 src="./myapp/assets/Images/1.png">
-<img height=500 src="./myapp/assets/Images/1.1.png">
+<img height=400 src="./myapp/assets/Images/1.png">
+<img height=400 src="./myapp/assets/Images/1.1.png">
 
 ## New Restaurant Screen
 
